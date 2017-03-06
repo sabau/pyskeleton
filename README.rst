@@ -1,4 +1,4 @@
-Kaggle competitions
-===================
+Python Skeleton
+===============
 
-This project will evolve in kaggle solutions hopefully
+Skeleton project
